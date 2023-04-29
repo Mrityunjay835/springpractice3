@@ -1,0 +1,9 @@
+package com.spring.listpack;
+
+public class Project {
+	private int projectId;
+	private String projectName;
+	private String description;
+	
+
+}

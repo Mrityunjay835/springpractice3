@@ -1,0 +1,19 @@
+package com.springquickstart.entity;
+
+public class Airtel {
+	
+	private Service service;
+
+	public Service getService() {
+		return service;
+	}
+
+	public void setService(Service service) {
+		this.service = service;
+	}
+	
+	public activeService() {
+		service.service();
+	}
+
+}
